@@ -1,0 +1,17 @@
+.footer {
+  background-color: #2B2A2A;
+  color: #6B6C6C;
+  text-align: center;
+  padding: 50px;
+}
+.footer ul {
+  list-style-type: none;
+}
+.footer li {
+  display: inline;
+}
+.footer i {
+  color: #1EDD89;
+  font-size: 30;
+  letter-spacing: 6px;
+}

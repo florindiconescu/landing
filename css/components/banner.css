@@ -1,0 +1,19 @@
+.banner{
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 200px 0px;
+}
+.banner h1 {
+  text-align: left;
+}
+.banner p {
+  color: #B2B3B3;
+  text-align: left;
+  font-family: open sans;
+  font-size: 20;
+}
+.banner a {
+  text-align: left;
+}
